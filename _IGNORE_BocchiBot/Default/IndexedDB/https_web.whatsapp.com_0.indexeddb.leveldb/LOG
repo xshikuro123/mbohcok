@@ -1,0 +1,64 @@
+2023/01/26-15:54:44.686 311c Creating DB I:\BocchiBot-master\_IGNORE_BocchiBot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/01/26-15:54:44.828 311c Reusing MANIFEST I:\BocchiBot-master\_IGNORE_BocchiBot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/26-15:54:45.286 110c Level-0 table #5: started
+2023/01/26-15:54:45.377 110c Level-0 table #5: 7367 bytes OK
+2023/01/26-15:54:45.424 110c Delete type=0 #3
+2023/01/26-15:54:45.471 110c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/01/26-15:55:09.108 4484 Level-0 table #7: started
+2023/01/26-15:55:09.256 4484 Level-0 table #7: 1082092 bytes OK
+2023/01/26-15:55:09.302 4484 Delete type=0 #4
+2023/01/26-15:55:11.656 4484 Level-0 table #9: started
+2023/01/26-15:55:11.812 4484 Level-0 table #9: 1776249 bytes OK
+2023/01/26-15:55:11.892 4484 Delete type=0 #6
+2023/01/26-15:55:11.901 110c Compacting 1@0 + 1@1 files
+2023/01/26-15:55:12.096 110c Generated table #10@0: 37781 keys, 2199043 bytes
+2023/01/26-15:55:12.221 110c Generated table #11@0: 2344 keys, 111667 bytes
+2023/01/26-15:55:12.221 110c Compacted 1@0 + 1@1 files => 2310710 bytes
+2023/01/26-15:55:12.298 110c compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/26-15:55:14.547 4484 Level-0 table #13: started
+2023/01/26-15:55:14.731 4484 Level-0 table #13: 1131481 bytes OK
+2023/01/26-15:55:14.800 4484 Delete type=2 #7
+2023/01/26-15:55:14.800 4484 Delete type=0 #8
+2023/01/26-15:55:14.801 4484 Delete type=2 #9
+2023/01/26-15:55:15.583 4484 Compacting 1@0 + 2@1 files
+2023/01/26-15:55:15.794 4484 Generated table #14@0: 64662 keys, 2231818 bytes
+2023/01/26-15:55:15.907 4484 Generated table #15@0: 16233 keys, 866572 bytes
+2023/01/26-15:55:15.907 4484 Compacted 1@0 + 2@1 files => 3098390 bytes
+2023/01/26-15:55:15.974 4484 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/26-15:55:17.429 4900 Level-0 table #17: started
+2023/01/26-15:55:17.581 4900 Level-0 table #17: 981309 bytes OK
+2023/01/26-15:55:17.630 4900 Delete type=2 #10
+2023/01/26-15:55:17.631 4900 Delete type=2 #11
+2023/01/26-15:55:17.631 4900 Delete type=0 #12
+2023/01/26-15:55:17.631 4900 Delete type=2 #13
+2023/01/26-15:55:17.672 4900 Compacting 1@0 + 2@1 files
+2023/01/26-15:55:17.954 4900 Generated table #18@0: 75715 keys, 2251323 bytes
+2023/01/26-15:55:18.345 4900 Generated table #19@0: 36030 keys, 1246248 bytes
+2023/01/26-15:55:18.345 4900 Compacted 1@0 + 2@1 files => 3497571 bytes
+2023/01/26-15:55:18.412 4900 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/26-15:55:21.149 4900 Level-0 table #21: started
+2023/01/26-15:55:21.274 4900 Level-0 table #21: 993973 bytes OK
+2023/01/26-15:55:21.322 4900 Delete type=2 #14
+2023/01/26-15:55:21.323 4900 Delete type=2 #15
+2023/01/26-15:55:21.323 4900 Delete type=0 #16
+2023/01/26-15:55:21.324 4900 Delete type=2 #17
+2023/01/26-15:55:21.344 4484 Compacting 1@0 + 2@1 files
+2023/01/26-15:55:21.592 4484 Generated table #22@0: 95567 keys, 2278087 bytes
+2023/01/26-15:55:21.762 4484 Generated table #23@0: 48179 keys, 1771228 bytes
+2023/01/26-15:55:21.762 4484 Compacted 1@0 + 2@1 files => 4049315 bytes
+2023/01/26-15:55:21.840 4484 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/01/26-15:55:21.842 4484 Delete type=2 #18
+2023/01/26-15:55:21.843 4484 Delete type=2 #19
+2023/01/26-15:55:21.843 4484 Delete type=2 #21
+2023/01/26-15:55:24.952 4900 Level-0 table #25: started
+2023/01/26-15:55:25.046 4900 Level-0 table #25: 1007127 bytes OK
+2023/01/26-15:55:25.093 4900 Delete type=0 #20
+2023/01/26-15:55:26.002 311c Compacting 1@0 + 2@1 files
+2023/01/26-15:55:26.246 311c Generated table #26@0: 116570 keys, 2315681 bytes
+2023/01/26-15:55:26.805 311c Generated table #27@0: 52008 keys, 2198385 bytes
+2023/01/26-15:55:26.923 311c Generated table #28@0: 15430 keys, 228562 bytes
+2023/01/26-15:55:26.924 311c Compacted 1@0 + 2@1 files => 4742628 bytes
+2023/01/26-15:55:26.997 311c compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/01/26-15:55:26.999 311c Delete type=2 #22
+2023/01/26-15:55:27.000 311c Delete type=2 #23
+2023/01/26-15:55:27.000 311c Delete type=2 #25
